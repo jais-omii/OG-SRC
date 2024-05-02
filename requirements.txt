@@ -5,6 +5,3 @@ cryptg
 tgcrypto
 pyrogram
 python-decouple
-flask
-gunicorn
-aiohttp
