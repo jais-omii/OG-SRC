@@ -1,4 +1,3 @@
-#Github.com/Vasusen-code
 
 import time, os
 
