@@ -1,8 +1,10 @@
 
-
 https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
 https://github.com/vasusen-code/ethon/archive/refs/tags/v0.1.5.zip
 cryptg
 tgcrypto
 pyrogram
 python-decouple
+flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
